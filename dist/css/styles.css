@@ -1812,6 +1812,9 @@ progress {
   --bs-table-accent-bg: var(--bs-table-hover-bg);
   color: var(--bs-table-hover-color);
 }
+.gradient-background {
+  background: linear-gradient(to bottom, #957DAD, #5E2A7E);
+}
 
 .table-primary {
   --bs-table-color: #000;
